@@ -23,7 +23,7 @@ This is kind of my learning diary, where I am compiling a series of lessons that
 - [**Neural Networks and Tensors**](./01_Introduction_to_PyTorch/introduction_to_pytorch.md#neural-networks-and-tensors)
 
 
-### [**02: PyTorch Basics**](./01_Introduction_to_PyTorch/introduction_to_pytorch.md)
+### [**02: PyTorch Basics**](./02_PyTorch_Basics/pytorch_basics.md)
 
-- [**PyTorch Fundamentals**](./01_Introduction_to_PyTorch/introduction_to_pytorch.md#pytorch-fundamentals)
-- [**Basic Structure of PyTorch Model and Training Loop**](./01_Introduction_to_PyTorch/introduction_to_pytorch.md#basic-structure-of-pytorch-model-and-training-loop)
+- [**PyTorch Fundamentals**](./02_PyTorch_Basics/pytorch_basics.md#pytorch-fundamentals)
+- [**Basic Structure of PyTorch Model and Training Loop**](./02_PyTorch_Basics/pytorch_basics.md#basic-structure-of-pytorch-model-and-training-loop)
