@@ -1,4 +1,4 @@
-[**🏠 Home**](../README.md) | [**◀️ Introduction to PyTorch**](../01_Introduction_to_PyTorch/introduction_to_pytorch.md) | [**Control Structures ▶️**](../02_Basic_constructs/basic_constructs.md)
+[**🏠 Home**](../README.md) | [**◀️ Introduction to PyTorch**](../01_Introduction_to_PyTorch/introduction_to_pytorch.md) | [**Feedforward Neural Networks ▶️**](../03_Feedforward_Neural_Networks/feedforward_neural_networks.md)
 
 
 
@@ -274,4 +274,4 @@ This demonstrates the basic steps of building a neural network model and use it 
 
 
 
-[**🏠 Home**](../README.md) | [**◀️ Introduction to PyTorch**](../01_Introduction_to_PyTorch/introduction_to_pytorch.md) | [**Control Structures ▶️**](../02_Basic_constructs/basic_constructs.md)
+[**🏠 Home**](../README.md) | [**◀️ Introduction to PyTorch**](../01_Introduction_to_PyTorch/introduction_to_pytorch.md) | [**Feedforward Neural Networks ▶️**](../03_Feedforward_Neural_Networks/feedforward_neural_networks.md)
