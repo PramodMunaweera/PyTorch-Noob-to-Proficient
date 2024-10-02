@@ -2,7 +2,9 @@
   <img src="res/img/pytorch_logo.png" alt="Logo">
 </div>
 
-# PyTorch: Noob to Proficient
+</br>
+
+# 🔥PyTorch: Noob to Proficient
 
 Welcome to "PyTorch: Noob to Proficient"! This comprehensive course is designed to take you from a complete beginner to a proficient PyTorch programmer. Join us on this journey and master one of the most powerful deep learning frameworks!
 
@@ -16,6 +18,8 @@ This is kind of my learning diary, where I am compiling a series of lessons that
 
 ## **📑 Contents**
 
+## **Phase 1: PyTorch Fundamentals**
+
 ### [**01: Introduction to PyTorch**](./01_Introduction_to_PyTorch/introduction_to_pytorch.md)
 
 - [**What is PyTorch?**](./01_Introduction_to_PyTorch/introduction_to_pytorch.md#what-is-pytorch)
@@ -27,3 +31,60 @@ This is kind of my learning diary, where I am compiling a series of lessons that
 
 - [**PyTorch Fundamentals**](./02_PyTorch_Basics/pytorch_basics.md#pytorch-fundamentals)
 - [**Basic Structure of PyTorch Model and Training Loop**](./02_PyTorch_Basics/pytorch_basics.md#basic-structure-of-pytorch-model-and-training-loop)
+- [**Linear Regression**](./02_PyTorch_Basics/pytorch_basics.md#pytorch-fundamentals)
+
+
+## **Phase 2: Building Neural Networks**
+
+### [**03: Feedforward Neural Networks**](./03_Feedforward_Neural_Networks/feedforward_neural_networks.md)
+
+- [**Fully Connected Layers**](./03_Feedforward_Neural_Networks/feedforward_neural_networks.md#fully-connected-layers)
+- [**Activation Functions**](./03_Feedforward_Neural_Networks/feedforward_neural_networks.md#activation-functions)
+- [**Building a Simple Feedforward Neural Network**](./03_Feedforward_Neural_Networks/feedforward_neural_networks.md#building-a-simple-feedforward-neural-network)
+- [**Training and Evaluating Models**](#training-and-evaluating-models)
+- [**Advanced Concepts**](./03_Feedforward_Neural_Networks/feedforward_neural_networks.md#advanced-concepts)
+- [**Logistic Regression**](./03_Feedforward_Neural_Networks/feedforward_neural_networks.md#activation-functions)
+- [**Multi-Class Classification**](./03_Feedforward_Neural_Networks/feedforward_neural_networks.md#activation-functions)
+
+### [**04: Convolutional Neural Networks (CNNs)**](./02_PyTorch_Basics/pytorch_basics.md)
+
+### [**05: Recurrent Neural Networks (RNNs)**](./02_PyTorch_Basics/pytorch_basics.md)
+
+### [**06: Long Short-Term Memory (LSTM) networks**](./02_PyTorch_Basics/pytorch_basics.md)
+
+### [**06: Transformers**](./02_PyTorch_Basics/pytorch_basics.md)
+
+### [**06: Transfer learning**](./02_PyTorch_Basics/pytorch_basics.md)
+
+
+## **Phase 4: Natural Language Processing**
+
+### [**05: Natural Language Processing (NLP)**](./02_PyTorch_Basics/pytorch_basics.md)
+
+### [**05: Word Embeddings**](./02_PyTorch_Basics/pytorch_basics.md)
+
+### [**05: Sequence-to-Sequence Models**](./02_PyTorch_Basics/pytorch_basics.md)
+
+### [**05: Transformers and Attention Mechanisms**](./02_PyTorch_Basics/pytorch_basics.md)
+
+
+
+## **Phase 5: Computer Vision**
+
+### [**05: Image classification**](./02_PyTorch_Basics/pytorch_basics.md)
+
+### [**05: Object detection**](./02_PyTorch_Basics/pytorch_basics.md)
+
+### [**05: Semantic segmentation**](./02_PyTorch_Basics/pytorch_basics.md)
+
+
+
+## **Phase 3: Generative Models**
+
+### [**06: Autoencoders**](./02_PyTorch_Basics/pytorch_basics.md)
+
+### [**06: Variational Autoencoders (VAEs)**](./02_PyTorch_Basics/pytorch_basics.md)
+
+### [**06: Generative Adversarial Networks (GANs)**](./02_PyTorch_Basics/pytorch_basics.md)
+
+### [**06: Advanced Generative Models**](./02_PyTorch_Basics/pytorch_basics.md)
