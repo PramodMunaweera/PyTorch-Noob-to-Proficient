@@ -8,6 +8,9 @@
 - [**Basic Structure of PyTorch Model and Training Loop**](#basic-structure-of-pytorch-model-and-training-loop)
 
 
+
+# PyTorch Basics
+
 ## PyTorch Fundamentals
 
 Let's dive into some basic PyTorch operations to get you started. We'll cover tensor creation, manipulation, and some fundamental operations.
@@ -193,6 +196,20 @@ The training loop is the core of model training. It involves iterating over the 
 - **Backward pass:** Compute gradients using `loss.backward()`.
 - **Update weights:** Update model parameters using `optimizer.step()`.
 
+```python
+# Training loop
+epochs = 100
+for epoch in range(epochs):
+    # Forward pass
+    y_pred = model(X)
+    loss = criterion(y_pred, y)
+    
+    # Backward pass and optimize
+    optimizer.zero_grad()
+    loss.backward()
+    optimizer.step()
+```
+
 Let's put these concepts together in a practical example. We'll implement a simple linear regression model.
 
 ```python
@@ -247,7 +264,7 @@ Result:
 
 ![alt text](./img/result.png)
 
-This demonstrates:
+This demonstrates the basic steps of building a neural network model and use it for inference:
 
 1. Creating a simple neural network model (LinearRegression)
 2. Define a loss function and optimizer
