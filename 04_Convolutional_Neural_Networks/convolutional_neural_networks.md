@@ -2,26 +2,25 @@
 
 
 
-### [**Convolutional Neural Networks (CNNs)**](#feedforward-neural-networks-1)
+### [**Convolutional Neural Networks (CNNs)**](#convolutional-neural-networks-cnns-1)
 
-- [**Introduction to CNNs**]()
+- [**Introduction to CNNs**](#introduction-to-cnns)
     - The Concept of Convolution
     - Applications of CNNs
-- [**Architecture of CNNs**]()
+- [**Architecture of CNNs**](#architecture-of-cnns)
     - The architecture inspired by the human brain
     - Concept of Receptive Field and how neurons respond to stimuli
-- [**Why Use CNNs?**]()
-    - Explanation of spatial and temporal dependencies in images
-    - Comparison with feed-forward neural nets and multi-level perceptrons, advantages of CNNs
-- [**Components of CNNs**]()
+- [**Why Use CNNs?**](#why-use-cnns)
+
+- [**Components of CNNs**](#components-of-cnns)
     - Convolution Layer
     - Pooling Layer
     - Activation Functions
-- [**CNN Layers Implementation**]()
+- [**CNN Layers Implementation**](#cnn-layers-implementation)
     - Step-by-step process of how CNNs understand features
     - From Convolution and Pooling to Classification
     - Building a CNN model for MNIST digit classification
-- [**Advanced CNN Architectures**]()
+- [**Advanced CNN Architectures**](#advanced-cnn-architectures)
     - LeNet-5
     - AlexNet
     - VGGNet

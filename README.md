@@ -46,7 +46,14 @@ This is kind of my learning diary, where I am compiling a series of lessons that
 - [**Logistic Regression**](./03_Feedforward_Neural_Networks/feedforward_neural_networks.md#activation-functions)
 - [**Multi-Class Classification**](./03_Feedforward_Neural_Networks/feedforward_neural_networks.md#activation-functions)
 
-### [**04: Convolutional Neural Networks (CNNs)**](./02_PyTorch_Basics/pytorch_basics.md)
+### [**04: Convolutional Neural Networks (CNNs)**](./04_Convolutional_Neural_Networks/convolutional_neural_networks.md)
+
+- [**Introduction to CNNs**](./04_Convolutional_Neural_Networks/convolutional_neural_networks.md#introduction-to-cnns)
+- [**Architecture of CNNs**](./04_Convolutional_Neural_Networks/convolutional_neural_networks.md#architecture-of-cnns)
+- [**Why Use CNNs?**](./04_Convolutional_Neural_Networks/convolutional_neural_networks.md#why-use-cnns)
+- [**Components of CNNs**](./04_Convolutional_Neural_Networks/convolutional_neural_networks.md#components-of-cnns)
+- [**CNN Layers Implementation**](./04_Convolutional_Neural_Networks/convolutional_neural_networks.md#cnn-layers-implementation)
+- [**Advanced CNN Architectures**](./04_Convolutional_Neural_Networks/convolutional_neural_networks.md#advanced-cnn-architectures)
 
 ### [**05: Recurrent Neural Networks (RNNs)**](./02_PyTorch_Basics/pytorch_basics.md)
 
