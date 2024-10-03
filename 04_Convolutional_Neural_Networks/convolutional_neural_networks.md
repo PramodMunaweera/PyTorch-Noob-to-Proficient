@@ -126,6 +126,12 @@ Image Source: https://towardsdatascience.com/a-comprehensive-guide-to-convolutio
 
 Image Source: https://svitla.com/blog/cnn-for-image-processing/
 
+![alt text](./img/filter.png)
+
+Using different kernels for capturing different kinds of features.
+
+Image Source: https://en.wikipedia.org/wiki/Kernel_(image_processing)
+
 ```python
 import torch
 import torch.nn as nn
