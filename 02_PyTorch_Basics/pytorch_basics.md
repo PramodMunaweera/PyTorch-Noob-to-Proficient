@@ -6,7 +6,7 @@
 
 - [**PyTorch Fundamentals**](#pytorch-fundamentals)
 - [**Basic Structure of PyTorch Model and Training Loop**](#basic-structure-of-pytorch-model-and-training-loop)
-
+- [**Example: Linear Regression**](#example-linear-regression)
 
 
 # PyTorch Basics
@@ -209,6 +209,8 @@ for epoch in range(epochs):
     loss.backward()
     optimizer.step()
 ```
+
+## Example: Linear Regression
 
 Let's put these concepts together in a practical example. We'll implement a simple linear regression model.
 

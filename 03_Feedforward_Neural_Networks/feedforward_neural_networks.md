@@ -8,7 +8,7 @@
 
 - [**Activation Functions**](#activation-functions)
 
-- [**Building a Simple Feedforward Neural Network**](#building-a-simple-feedforward-neural-network)
+- [**Building a Simple Feedforward Neural Network**](#building-feedforward-neural-network)
     - [**Forward Propagation**](#forward-propagation)
     - [**Backward Propagation and Optimization**](#backward-propagation-and-optimization)
 
@@ -19,8 +19,8 @@
 - [**Advanced Concepts**](#advanced-concepts)
     - Dropout
     - Batch Normalization
-- [**Logistic Regression**](#activation-functions)
-- [**Multi-Class Classification**](#activation-functions)
+- [**Logistic Regression**](#logistic-regression)
+- [**Multi-Class Classification**](#multi-class-classification)
 
 
 

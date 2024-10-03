@@ -31,7 +31,7 @@ This is kind of my learning diary, where I am compiling a series of lessons that
 
 - [**PyTorch Fundamentals**](./02_PyTorch_Basics/pytorch_basics.md#pytorch-fundamentals)
 - [**Basic Structure of PyTorch Model and Training Loop**](./02_PyTorch_Basics/pytorch_basics.md#basic-structure-of-pytorch-model-and-training-loop)
-- [**Linear Regression**](./02_PyTorch_Basics/pytorch_basics.md#pytorch-fundamentals)
+- [**Example: Linear Regression**](./02_PyTorch_Basics/pytorch_basics.md#example-linear-regression)
 
 
 ## **Phase 2: Building Neural Networks**
@@ -40,11 +40,11 @@ This is kind of my learning diary, where I am compiling a series of lessons that
 
 - [**Fully Connected Layers**](./03_Feedforward_Neural_Networks/feedforward_neural_networks.md#fully-connected-layers)
 - [**Activation Functions**](./03_Feedforward_Neural_Networks/feedforward_neural_networks.md#activation-functions)
-- [**Building a Simple Feedforward Neural Network**](./03_Feedforward_Neural_Networks/feedforward_neural_networks.md#building-a-simple-feedforward-neural-network)
-- [**Training and Evaluating Models**](#training-and-evaluating-models)
+- [**Building a Simple Feedforward Neural Network**](./03_Feedforward_Neural_Networks/feedforward_neural_networks.md#building-feedforward-neural-network)
+- [**Training and Evaluating Models**](./03_Feedforward_Neural_Networks/feedforward_neural_networks.md#training-and-evaluating-models)
 - [**Advanced Concepts**](./03_Feedforward_Neural_Networks/feedforward_neural_networks.md#advanced-concepts)
-- [**Logistic Regression**](./03_Feedforward_Neural_Networks/feedforward_neural_networks.md#activation-functions)
-- [**Multi-Class Classification**](./03_Feedforward_Neural_Networks/feedforward_neural_networks.md#activation-functions)
+- [**Logistic Regression**](./03_Feedforward_Neural_Networks/feedforward_neural_networks.md#logistic-regression)
+- [**Multi-Class Classification**](./03_Feedforward_Neural_Networks/feedforward_neural_networks.md#multi-class-classification)
 
 ### [**04: Convolutional Neural Networks (CNNs)**](./04_Convolutional_Neural_Networks/convolutional_neural_networks.md)
 
@@ -57,7 +57,7 @@ This is kind of my learning diary, where I am compiling a series of lessons that
 
 ### [**05: Recurrent Neural Networks (RNNs)**](./02_PyTorch_Basics/pytorch_basics.md)
 
-### [**06: Long Short-Term Memory (LSTM) networks**](./02_PyTorch_Basics/pytorch_basics.md)
+### [**06: Long Short-Term Memory (LSTM) Networks**](./02_PyTorch_Basics/pytorch_basics.md)
 
 ### [**06: Transformers**](./02_PyTorch_Basics/pytorch_basics.md)
 
