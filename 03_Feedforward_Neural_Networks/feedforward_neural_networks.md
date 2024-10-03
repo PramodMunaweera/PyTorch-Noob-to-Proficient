@@ -1,4 +1,4 @@
-[**🏠 Home**](../README.md) | [**◀️ PyTorch Basics**](../02_PyTorch_Basics/pytorch_basics.md) | [**Convolutional Neural Networks (CNNs) ▶️**](../02_Basic_constructs/basic_constructs.md)
+[**🏠 Home**](../README.md) | [**◀️ PyTorch Basics**](../02_PyTorch_Basics/pytorch_basics.md) | [**Convolutional Neural Networks (CNNs) ▶️**](../04_Convolutional_Neural_Networks/convolutional_neural_networks.md)
 
 
 
@@ -622,4 +622,4 @@ This demonstrates applying a feedforward neural network to a real-world problem 
 
 
 
-[**🏠 Home**](../README.md) | [**◀️ PyTorch Basics**](../02_PyTorch_Basics/pytorch_basics.md) | [**Convolutional Neural Networks (CNNs) ▶️**](../02_Basic_constructs/basic_constructs.md)
+[**🏠 Home**](../README.md) | [**◀️ PyTorch Basics**](../02_PyTorch_Basics/pytorch_basics.md) | [**Convolutional Neural Networks (CNNs) ▶️**](../04_Convolutional_Neural_Networks/convolutional_neural_networks.md)
