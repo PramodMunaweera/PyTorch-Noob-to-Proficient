@@ -20,6 +20,7 @@ This is kind of my learning diary, where I am compiling a series of lessons that
 
 ## **Phase 1: PyTorch Fundamentals**
 
+
 ### [**01: Introduction to PyTorch**](./01_Introduction_to_PyTorch/introduction_to_pytorch.md)
 
 - [**What is PyTorch?**](./01_Introduction_to_PyTorch/introduction_to_pytorch.md#what-is-pytorch)
@@ -36,6 +37,7 @@ This is kind of my learning diary, where I am compiling a series of lessons that
 
 ## **Phase 2: Building Neural Networks**
 
+
 ### [**03: Feedforward Neural Networks**](./03_Feedforward_Neural_Networks/feedforward_neural_networks.md)
 
 - [**Fully Connected Layers**](./03_Feedforward_Neural_Networks/feedforward_neural_networks.md#fully-connected-layers)
@@ -46,6 +48,7 @@ This is kind of my learning diary, where I am compiling a series of lessons that
 - [**Logistic Regression**](./03_Feedforward_Neural_Networks/feedforward_neural_networks.md#logistic-regression)
 - [**Multi-Class Classification**](./03_Feedforward_Neural_Networks/feedforward_neural_networks.md#multi-class-classification)
 
+
 ### [**04: Convolutional Neural Networks (CNNs)**](./04_Convolutional_Neural_Networks/convolutional_neural_networks.md)
 
 - [**Introduction to CNNs**](./04_Convolutional_Neural_Networks/convolutional_neural_networks.md#introduction-to-cnns)
@@ -55,7 +58,14 @@ This is kind of my learning diary, where I am compiling a series of lessons that
 - [**CNN Layers Implementation**](./04_Convolutional_Neural_Networks/convolutional_neural_networks.md#cnn-layers-implementation)
 - [**Advanced CNN Architectures**](./04_Convolutional_Neural_Networks/convolutional_neural_networks.md#advanced-cnn-architectures)
 
-### [**05: Recurrent Neural Networks (RNNs)**](./02_PyTorch_Basics/pytorch_basics.md)
+
+### [**05:Recurrent Neural Networks (RNNs)**](./05_Recurrent_Neural_Networks/recurrent_neural_networks.md)
+
+- [**Introduction to RNNs**](./05_Recurrent_Neural_Networks/recurrent_neural_networks.md#introduction-to-rnns)
+- [**RNN Fundamentals**](./05_Recurrent_Neural_Networks/recurrent_neural_networks.md#rnn-fundamentals)
+- [**Building a Simple RNN**](./05_Recurrent_Neural_Networks/recurrent_neural_networks.md#building-a-simple-rnn)
+- [**Advanced RNN Variants**](./05_Recurrent_Neural_Networks/recurrent_neural_networks.md#advanced-rnn-variants)
+
 
 ### [**06: Long Short-Term Memory (LSTM) Networks**](./02_PyTorch_Basics/pytorch_basics.md)
 
