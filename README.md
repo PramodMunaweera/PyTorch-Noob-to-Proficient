@@ -66,10 +66,11 @@ This is kind of my learning diary, where I am compiling a series of lessons that
 - [**Building a Simple RNN**](./05_Recurrent_Neural_Networks/recurrent_neural_networks.md#building-a-simple-rnn)
 - [**Advanced RNN Variants**](./05_Recurrent_Neural_Networks/recurrent_neural_networks.md#advanced-rnn-variants)
 
+### [**PROJECT 01: Bitcoin Price Prediction**](./PROJECT_01_Bitcoin_price_prediction/PROJECT_01_Bitcoin_price_prediction.ipynb)
 
 ### [**06: Long Short-Term Memory (LSTM) Networks**](./02_PyTorch_Basics/pytorch_basics.md)
 
-### [**06: Transformers**](./02_PyTorch_Basics/pytorch_basics.md)
+### [**07: Transformers**](./02_PyTorch_Basics/pytorch_basics.md)
 
 ### [**06: Transfer learning**](./02_PyTorch_Basics/pytorch_basics.md)
 
