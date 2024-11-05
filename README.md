@@ -68,7 +68,13 @@ This is kind of my learning diary, where I am compiling a series of lessons that
 
 ### [**PROJECT 01: Bitcoin Price Prediction**](./PROJECT_01_Bitcoin_price_prediction/PROJECT_01_Bitcoin_price_prediction.ipynb)
 
-### [**06: Long Short-Term Memory (LSTM) Networks**](./02_PyTorch_Basics/pytorch_basics.md)
+### [**06: Long Short-Term Memory (LSTM) Networks**](./06_Long_Short_Term_Memory_Networks/long_short_term_memory_networks.md)
+
+- [**Introduction to LSTMs**](./06_Long_Short_Term_Memory_Networks/long_short_term_memory_networks.md#introduction-to-lstms)
+- [**LSTMs Fundamentals**](./06_Long_Short_Term_Memory_Networks/long_short_term_memory_networks.md#lstms-fundamentals)
+- [**Implementing simple LSTM with PyTorch**](./06_Long_Short_Term_Memory_Networks/long_short_term_memory_networks.md#implementing-simple-lstm-with-pytorch)
+- [**LSTM Variants**](./06_Long_Short_Term_Memory_Networks/long_short_term_memory_networks.md#lstm-variants)
+- [**Hyperparameter tuning**](./06_Long_Short_Term_Memory_Networks/long_short_term_memory_networks.md#hyperparameter-tuning)
 
 ### [**07: Transformers**](./02_PyTorch_Basics/pytorch_basics.md)
 
